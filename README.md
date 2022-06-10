@@ -1,4 +1,4 @@
-# Overview
+# Research Overview
 
 This project seeks to map pertinent data for Jackson County, one of Georgia's fastest-growing counties. Included in the research is:
 - Home sales in 2021 (source: public record), 
